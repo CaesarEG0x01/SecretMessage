@@ -34,7 +34,7 @@ The first message was sent in that chat room at a time
 
 Now let's look in more depth at the name of the file that contains the messages
 The first part is the room number, which can only have 3 numbers `312`
-The second part is the timestamp number in weeks
+The second part is the timestamp number in Days
 The third part is the timestamp number in hours
 
 As indicated in the comment, the flag was sent a day before this message
